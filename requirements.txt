@@ -1,8 +1,5 @@
-streamlit
-pandas
-numpy
-plotly
-altair
+streamlit[snowflake]
+snowflake-connector-python
+snowflake-snowpark-python
 matplotlib
-python-dotenv
-openai
+pandas
