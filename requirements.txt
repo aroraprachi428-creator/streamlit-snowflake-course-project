@@ -1,5 +1,3 @@
-streamlit[snowflake]
-snowflake-connector-python
-snowflake-snowpark-python
-matplotlib
+streamlit
 pandas
+
